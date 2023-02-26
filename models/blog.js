@@ -18,7 +18,7 @@ Blog.init(
         },
 
         description: {
-            type: DataTypes.String,
+            type: DataTypes.STRING,
             allowNull: false
         },
 
