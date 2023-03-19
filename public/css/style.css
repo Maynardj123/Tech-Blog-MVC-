@@ -1,0 +1,21 @@
+body {
+background-color: #fdeed9;
+}
+
+header {
+    background-color: #432818;
+}
+
+h1 {
+    background-color: #fdeed9;
+   
+    width:fit-content;
+    padding:5px;
+    border-radius: 10px;
+    box-shadow: 10px 10px;
+    
+}
+
+h1 a {
+    color: #432818;
+}
